@@ -1,0 +1,9 @@
+
+esboço de banco de dados para realizaçao de testes
+
+itens {
+codigo.
+descriçao.
+preço.
+quantidade.
+}
